@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://telegra.ph/file/4bb5fd0de189c0ccd5fd6.jpg" alt="my banner">
-</p>
 
 <h3 align="center">
 Hi there, I'm Qahramon
@@ -12,7 +9,6 @@ A passionate backend developer from Uzbekistan
 
 
 
-<p align="left"> <a href="https://github.com/devabsaitov"><img src="https://github-profile-trophy.vercel.app/?username=dilshoduz" alt="dilshoduz" /></a> </p>
 
 ### Connect with me:
 
@@ -22,7 +18,7 @@ A passionate backend developer from Uzbekistan
 </br>
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-- 🔶 Know about my experiences by this [Resume](https://github.com/akhroruz/akhroruz/blob/main/AhrorTurginboyev.pdf)
+- 🔶 Know about my experiences by this [Resume]
 
 
 ## Technical Skills
@@ -61,13 +57,6 @@ A passionate backend developer from Uzbekistan
 ![](https://img.shields.io/badge/Trello-information?color=%23026AA7&style=flat&logo=Trello&logoColor=white)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhroruz&show_icons=true&locale=en&layout=compact" alt="akhroruz" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhroruz&show_icons=true&locale=en" alt="akhroruz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhroruz&" alt="akhroruz" /></p>
-
-[![Ahror's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=akhroruz&theme=high-contrast)](https://github.com/akhroruz/github-readme-activity-graph)
 
 
 

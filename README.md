@@ -1,4 +1,4 @@
-<vedio url="https://youtu.be/bL0LV0Huj1s"></vedio>
+<img src="path/to/your-image.jpg" alt="Description of the image" width="600" height="400">
 <h3 align="center">
 Hi there, I'm Qahramon
 </h3>

@@ -1,4 +1,4 @@
-<img src="path/to/your-image.jpg" alt="Description of the image" width="600" height="400">
+<img url=https://api.reliasoftware.com/uploads/Top_Python_Tools_Every_Python_Developer_Should_Know_About_ea578c8599.webp alt="Description of the image" width="600" height="400">
 <h3 align="center">
 Hi there, I'm Qahramon
 </h3>

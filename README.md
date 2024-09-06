@@ -1,4 +1,6 @@
-<img url=https://api.reliasoftware.com/uploads/Top_Python_Tools_Every_Python_Developer_Should_Know_About_ea578c8599.webp alt="Description of the image" width="600" height="400">
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/D4E12AQGeGNk_l2q7KQ/article-cover_image-shrink_720_1280/0/1686690814369?e=2147483647&v=beta&t=8b0BsZ7wVYfcCq4Ff7hu1riB8PFEDxEeyU-hU1_IRmw">
+</p>
 <h3 align="center">
 Hi there, I'm Qahramon
 </h3>
